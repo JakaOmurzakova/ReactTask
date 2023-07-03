@@ -1,0 +1,12 @@
+.footer {
+  max-width: auto;
+  height: 80px;
+  background-color: rgb(10, 131, 91);
+  margin-top: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  justify-content: center;
+}

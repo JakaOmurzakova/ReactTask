@@ -1,0 +1,11 @@
+.navbar {
+  max-width: auto;
+  height: 80px;
+  background-color: rgb(10, 131, 91);
+  margin: 0 auto;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
